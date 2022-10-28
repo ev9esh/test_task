@@ -1,0 +1,145 @@
+{
+    "address": "Esmeralda 940 L.4 - Valparaíso",
+    "name": "Sucursal Valparaíso",
+    "phones": "71-2201096",
+    "working_hours": [
+        " Tarde: 15.00 a 17.10 horas (L a J) / Hasta 16.10 horas (V)",
+        " Mañana: 08.50 a 14.10 hrs."
+    ]
+}{
+    "address": "San Antonio 399 - Santiago",
+    "name": "Sucursal Santiago",
+    "phones": "71-2201020",
+    "working_hours": [
+        " Tarde: 15.00 a 17.10 hrs. (L a J) / Hasta 16.10 hrs. (V)",
+        " Mañana: 8.50 a 14.10 hrs."
+    ]
+}{
+    "address": "Bernardo O Higgins 479 - San Fernando",
+    "name": "Sucursal San Fernando",
+    "phones": "71-2201048",
+    "working_hours": [
+        " Tarde: 15.00 a 17.10 hrs. (L a J) / Hasta 16.10 hrs. (V)",
+        " Mañana: 8.50 a 14.10 hrs."
+    ]
+}{
+    "address": "Claudina Urrutia 356 - Cauquenes",
+    "name": "Sucursal Cauquenes",
+    "phones": "71-2201004",
+    "working_hours": [
+        " Tarde: 15.00 a 17.10 hrs. (L a J) / Hasta 16.10 hrs. (V)",
+        " Mañana: 8.50 a 14.10 hrs."
+    ]
+}{
+    "address": "Merced 263 - Curicó",
+    "name": "Sucursal Curicó",
+    "phones": "71-2201046",
+    "working_hours": [
+        " Tarde: 15.00 a 17.10 hrs. (L a J) / Hasta 16.10 hrs. (V)",
+        " Mañana: 8.50 a 14.10 hrs."
+    ]
+}{
+    "address": "Quechereguas 1783 - Molina",
+    "name": "Sucursal Molina",
+    "phones": "71-2201021",
+    "working_hours": [
+        " Tarde: 15.00 a 17.10 hrs. (L a J) / Hasta 16.10 hrs. (V)",
+        " Mañana: 8.50 a 14.10 hrs."
+    ]
+}{
+    "address": "Maipú 360 - Linares",
+    "name": "Sucursal Linares",
+    "phones": "71-2201007",
+    "working_hours": [
+        " Tarde: 15.00 a 17.10 hrs. (L a J) / Hasta 16.10 hrs. (V)",
+        " Mañana: 8.50 a 14.10 hrs."
+    ]
+}{
+    "address": "Anibal Pinto 879 - Parral",
+    "name": "Sucursal Parral",
+    "phones": "71-2201003",
+    "working_hours": [
+        " Tarde: 15.00 a 17.10 hrs. (L a J) / Hasta 16.10 hrs. (V)",
+        " Mañana: 8.50 a 14.10 hrs."
+    ]
+}{
+    "address": "Arturo Prat 2639 - San Javier",
+    "name": "Sucursal San Javier",
+    "phones": "71-2201008",
+    "working_hours": [
+        " Tarde: 15.00 a 17.10 hrs. (L a J) / Hasta 16.10 hrs. (V)",
+        " Mañana: 8.50 a 14.10 hrs."
+    ]
+}{
+    "address": "Montt 262 - Constitución",
+    "name": "Sucursal Constitución",
+    "phones": "71-2201009",
+    "working_hours": [
+        " Tarde: 15.00 a 17.10 hrs. (L a J) / Hasta 16.10 hrs. (V)",
+        " Mañana: 8.50 a 14.10 hrs."
+    ]
+}{
+    "address": "Plaza de Armas s/n - Curepto",
+    "name": "Sucursal Curepto",
+    "phones": "71-2201018",
+    "working_hours": [
+        " Tarde: 15.00 a 17.10 hrs. (L a J) / Hasta 16.10 hrs. (V)",
+        " Mañana: 8.50 a 14.10 hrs."
+    ]
+}{
+    "address": "Huamachuco 810 - San Clemente",
+    "name": "Sucursal San Clemente",
+    "phones": "71-2201005",
+    "working_hours": [
+        " Tarde: 15.00 a 17.10 hrs. (L a J) / Hasta 16.10 hrs. (V)",
+        " Mañana: 8.50 a 14.10 hrs."
+    ]
+}{
+    "address": "14 Oriente 968 - Talca",
+    "name": "Sucursales Talca",
+    "phones": "71-2201102",
+    "working_hours": [
+        " Continuado: 8.50 a 16.10 hrs. (V)",
+        " Continuado: 8.50 a 17.10 hrs. (L a J)"
+    ]
+}{
+    "address": "Valdivia 320 - Los Ángeles",
+    "name": "Sucursal Los Ángeles",
+    "phones": "71-2201098",
+    "working_hours": [
+        " Tarde: 15.00 a 17.10 hrs. (L a J) / Hasta 16.10 hrs. (V)",
+        " Mañana: 8.50 a 14.10 hrs."
+    ]
+}{
+    "address": "Barros Arana 519 - Concepción",
+    "name": "Sucursal Concepción",
+    "phones": "71-2201093",
+    "working_hours": [
+        " Tarde: 15.00 a 17.10 hrs. (L a J) / Hasta 16.10 hrs. (V)",
+        " Mañana: 8.50 a 14.10 hrs."
+    ]
+}{
+    "address": "18 de Septiembre 618 - Chillán",
+    "name": "Sucursal Chillán",
+    "phones": "71-2201062",
+    "working_hours": [
+        " Tarde: 15.00 a 17.10 hrs. (L a J) / Hasta 16.10 hrs. (V)",
+        " Mañana: 08.50 a 14.10 hrs."
+    ]
+}{
+    "address": "Manuel Bulnes 649, local 2A - Temuco",
+    "name": "Sucursal Temuco",
+    "phones": "71-2201067",
+    "working_hours": [
+        " Tarde: 15.00 a 17.10 horas (L a J) / Hasta 16.10 horas (V)",
+        " Mañana: 08.50 a 14.10 horas"
+    ]
+}{
+    "address": "Antonio Varas 472 - Puerto Montt",
+    "name": "Sucursal Puerto Montt",
+    "phones": "71-2201094",
+    "working_hours": [
+        " Tarde: 15.00 a 17.10 horas (L a J) / Hasta 16.10 horas (V)",
+        " Mañana: 8.50 a 14.10 hrs."
+    ]
+}
